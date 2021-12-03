@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/delicue/projects/character-counter/src/lib/counter/counter.h
+string
+-
+
+/home/delicue/projects/character-counter/src/main.cpp
+iostream
+-
+fstream
+-
+lib/counter/counter.h
+/home/delicue/projects/character-counter/src/lib/counter/counter.h
+

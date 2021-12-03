@@ -1,0 +1,6 @@
+/home/delicue/projects/character-counter/build/CMakeFiles/rebuild_cache.dir
+/home/delicue/projects/character-counter/build/CMakeFiles/edit_cache.dir
+/home/delicue/projects/character-counter/build/CMakeFiles/char_counter.dir
+/home/delicue/projects/character-counter/build/lib/counter/CMakeFiles/rebuild_cache.dir
+/home/delicue/projects/character-counter/build/lib/counter/CMakeFiles/edit_cache.dir
+/home/delicue/projects/character-counter/build/lib/counter/CMakeFiles/counter.dir

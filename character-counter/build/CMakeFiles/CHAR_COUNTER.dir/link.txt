@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/CHAR_COUNTER.dir/main.cpp.o  -o CHAR_COUNTER  lib/counter/libcounter.a 
