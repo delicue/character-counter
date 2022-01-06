@@ -2,14 +2,10 @@
 #include <fstream>
 #include "lib/counter/counter.h"
 
-std::string & getFileName();
-
 int main()
 {
    std::fstream file;
-   std::string filename;
-   std::cout << "Please enter the file name to be scanned: ";
-   std::getline(std::cin, filename);
+   std::string filename("input.txt");
    file.open(filename.c_str(), std::ios::in);
 
    if (file.is_open())
