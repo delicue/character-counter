@@ -2,8 +2,6 @@
 #include <fstream>
 #include "lib/counter/counter.h"
 
-std::string & getFileName();
-
 int main()
 {
    std::fstream file;
